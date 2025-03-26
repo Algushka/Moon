@@ -8,7 +8,7 @@ public enum Moon {
     LAST_QUARTER("50%"),
     WANING_CRESCENT("45-1%");
 
-
+//
     private String illumination;
 
     Moon(String percentOfIllumination) {
